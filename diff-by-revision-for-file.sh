@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash -xe
 
 echo "start commit revision [HEAD~1]:"
 read start_commit
